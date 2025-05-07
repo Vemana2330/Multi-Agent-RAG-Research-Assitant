@@ -1,4 +1,4 @@
-# Multi-Agent-RAG-Research-Assitant
+# Multi-Agent-RAG-Research-Assistant
 
 ## Live Application Links
 [![codelab](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=10JxYB2VVfDPeJeyB4UOgK0hLkW-VULxwzqYZYmiYE_g#0)
